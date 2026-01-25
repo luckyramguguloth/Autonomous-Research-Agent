@@ -10,7 +10,7 @@
 
 [**Live Demo**](#-live-demo) • [**Architecture**](#-architecture) • [**Setup**](#%EF%B8%8F-setup) • [**Blog Post**](BLOG_POST.md)
 
-![Autonomous Research Agent Interface](assets/interface_preview.png)
+![Autonomous Research Agent Interface](Assets/interface_preview.png)
 
 </div>
 
