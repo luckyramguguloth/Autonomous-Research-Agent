@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Autonomous Research Agent
+#  Autonomous Research Agent
 ### *Deep Research with Multi-Step Reasoning & Knowledge Graphs*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://python.org)
