@@ -67,15 +67,14 @@ graph TD
 
 ## ⚡ Quick Start
 
-<details>
 <summary><b>1. Prerequisites</b></summary>
 <br>
 
 - Python 3.10 or higher
 - A Google Gemini API Key
-</details>
 
-<details>
+
+
 <summary><b>2. Installation</b></summary>
 <br>
 
@@ -86,9 +85,9 @@ git clone https://github.com/luckyramguguloth/Autonomous-Research-Agent.git
 cd Autonomous-Research-Agent
 pip install -r requirements.txt
 ```
-</details>
 
-<details>
+
+
 <summary><b>3. Configuration</b></summary>
 <br>
 
@@ -101,9 +100,9 @@ GOOGLE_API_KEY=AIzaSy...
 # Optional (for better search)
 TAVILY_API_KEY=tvly-...
 ```
-</details>
 
-<details>
+
+
 <summary><b>4. Run the Application</b></summary>
 <br>
 
@@ -114,7 +113,7 @@ streamlit run app.py
 ```
 
 Visit `http://localhost:8501` in your browser.
-</details>
+
 
 ---
 
