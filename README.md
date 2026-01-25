@@ -10,7 +10,7 @@
 
 [**Live Demo**](#-live-demo) • [**Architecture**](#-architecture) • [**Setup**](#%EF%B8%8F-setup) • [**Blog Post**](BLOG_POST.md)
 
-![Autonomous Research Agent Interface](C:\Users\laxma\Desktop\projects\myprojects\Autonomous Research Agent\Screenshot 2026-01-25 155751.png)
+![Autonomous Research Agent Interface](assets/interface_preview.png)
 
 </div>
 
