@@ -95,10 +95,10 @@ Create a `.env` file in the root directory:
 
 ```bash
 # Required
-GOOGLE_API_KEY=AIzaSy...
+GOOGLE_API_KEY="YOUR_API_KEY"
 
 # Optional (for better search)
-TAVILY_API_KEY=tvly-...
+TAVILY_API_KEY="YOUR_API_KEY"
 ```
 
 
@@ -159,6 +159,6 @@ The application exposes Prometheus metrics at `http://localhost:8000`:
 ---
 
 <div align="center">
-Built with ❤️ using 🦜🔗 LangChain & LangGraph
+Built with LangChain & LangGraph
 </div>
-"# Autonomous-Research-Agent" 
+" # Autonomous-Research-Agent" 
