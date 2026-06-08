@@ -16,7 +16,6 @@ def should_continue(state: AgentState):
     if current_idx < len(plan):
         return "researcher"
     return "reporter"
-
 workflow = StateGraph(AgentState)
 
 # Add Nodes
