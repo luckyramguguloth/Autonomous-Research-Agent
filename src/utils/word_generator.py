@@ -9,7 +9,6 @@ def create_word_report(markdown_text: str, topic: str):
     """
     doc = Document()
     
-    # Title
     title = doc.add_heading(topic, 0)
     title.alignment = WD_ALIGN_PARAGRAPH.CENTER
     
