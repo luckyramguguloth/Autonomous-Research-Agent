@@ -4,8 +4,6 @@ from langchain_core.output_parsers import StrOutputParser
 from ..tools import web_search, scrape_content
 from .state import AgentState
 
-
-
 def researcher_node(state: AgentState):
     """
     Executes the next step in the research plan.
