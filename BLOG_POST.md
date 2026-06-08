@@ -1,13 +1,5 @@
 # 🧠 Building a Brain: The Design of an Autonomous Research Agent
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Article-Technical%20Deep%20Dive-orange?style=for-the-badge" />
-  <br><br>
-  <i>Exploring the architecture of a Multi-Step Reasoning Agent using LangGraph and NetworkX</i>
-</div>
-
----
-
 ## 1. The Challenge of "Deep Research"
 
 Standard LLM chatbots (like Gemini/ChatGPT) are excellent at answering questions based on their training data. However, when asked to "Research the impact of quantum computing on modern cryptography," they often fail to:
