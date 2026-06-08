@@ -31,9 +31,7 @@ Write the full report now.
 """
 
 def reporter_node(state: AgentState):
-    """
-    Generates the final report.
-    """
+
     prompt = ChatPromptTemplate.from_template(REPORTER_PROMPT)
     model_name = state.get("model_name", "gemini-3-flash-preview")
     llm = ChatGoogleGenerativeAI(model=model_name, temperature=0)
